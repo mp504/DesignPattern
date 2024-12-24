@@ -74,8 +74,4 @@ This repository contains examples of various design patterns implemented in C#. 
 10. **Visitor**: [Visitor/Visitor.cs](#file:'repos\mp504\DesignPattern\Visitor\Visitor.cs')
     - Example: The `Visitor` class represents an operation to be performed on the elements of an object structure. This allows you to define a new operation without changing the classes of the elements on which it operates.
 
-## How to Run
-
-1. Clone the repository:
-    
     
